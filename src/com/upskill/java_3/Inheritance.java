@@ -10,13 +10,13 @@ public class Inheritance extends MethodType{
 //	-Multilevel Inheritance
 
 	public static void main(String[] args) {
-		
-		public static void main(String [] args) {
-			Inheritance obj = new Inheritance ();
-			obj.annualIncomeVoid();
-			obj.weeklyIncomeStatic();
-			
-		}
+//		
+//		public static void main(String [] args) {
+//			Inheritance obj = new Inheritance ();
+//			obj.annualIncomeVoid();
+//			obj.weeklyIncomeStatic();
+//			
+//		}
 
 	}
 
