@@ -5,11 +5,11 @@ public class Exception_TryCatchFinale {
 	public static void main(String[] args) {
 	
 		//Specific Built-in Exception - NumberFormatException
-		try{
-			int num = Integer.parseInt(arg0)
-		}
-		
-		
+//		try{
+//			int num = Integer.parseInt(arg0)
+//		}
+//		
+//		
 		//User-Defined Exception
 		
 		try{

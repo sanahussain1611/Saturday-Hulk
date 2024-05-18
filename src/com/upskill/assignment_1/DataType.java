@@ -48,8 +48,8 @@ System.out.println("perimeter of triangle: " + calculatePerimeter(side1, side2, 
 	int width = 9;
     int length = 13;
 
-    System.out.println("Perimeter of the rectangle: " + void calculatePerimeter(width, length) + " inches");
-}
+//    System.out.println("Perimeter of the rectangle: " + void calculatePerimeter(width, length) + " inches");
+//}
 
 public static int calculatePerimeter(int width, int length) {
     return 2 * (width + length);
